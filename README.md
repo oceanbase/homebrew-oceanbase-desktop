@@ -30,7 +30,7 @@ OceanBase Desktop is a comprehensive graphical user interface tool designed to s
 
 2. Add this tap to your Homebrew installation:
    ```bash
-   brew tap oceanbase/homebrew-oceanbase-desktop
+   brew tap oceanbase/homebrew-oceanbase-desktop https://gitee.com/oceanbase/homebrew-oceanbase-desktop.git
    ```
 
 ### Install OceanBase Desktop
