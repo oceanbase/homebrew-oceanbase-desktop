@@ -30,7 +30,7 @@ OceanBase Desktop is a comprehensive graphical user interface tool designed to s
 
 2. Add this tap to your Homebrew installation:
    ```bash
-   brew tap oceanbase/homebrew-oceanbase-desktop https://gitee.com/oceanbase/homebrew-oceanbase-desktop.git
+   brew tap oceanbase/oceanbase-desktop https://gitee.com/oceanbase/homebrew-oceanbase-desktop.git
    ```
 
 ### Install OceanBase Desktop
@@ -54,7 +54,7 @@ After installation, you can:
 
 ## Application Information
 
-- **Current Version**: 1.0.0
+- **Current Version**: 1.1.0
 - **Architecture**: ARM64 (Apple Silicon)
 - **Installation Guide**: [how to install OceanBase Desktop](https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000002866370)
 - **Open Source**: [open source website](https://open.oceanbase.com/)

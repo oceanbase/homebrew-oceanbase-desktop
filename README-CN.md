@@ -30,7 +30,7 @@ OceanBase Desktop 是一个全面的图形用户界面工具，旨在简化 Ocea
 
 2. 将此 tap 添加到您的 Homebrew 安装中：
    ```bash
-   brew tap oceanbase/homebrew-oceanbase-desktop https://gitee.com/oceanbase/homebrew-oceanbase-desktop.git
+   brew tap oceanbase/oceanbase-desktop https://gitee.com/oceanbase/homebrew-oceanbase-desktop.git
    ```
 
 ### 安装 OceanBase Desktop
@@ -54,7 +54,7 @@ brew install --cask oceanbase-desktop
 
 ## 应用程序信息
 
-- **当前版本**：1.0.0
+- **当前版本**：1.1.0
 - **架构**：ARM64（Apple Silicon）
 - **安装指南**：[如何安装 OceanBase Desktop](https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000002866370)
 - **开源**：[开源网站](https://open.oceanbase.com/)
